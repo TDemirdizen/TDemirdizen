@@ -1,6 +1,6 @@
 <h1 align="center">Loading...</h1>
 
-<img align="right" alt="Coding" width="400" src="https://bestanimations.com/media/computers/1166634950animated-computer-gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://bestanimations.com/media/computers/1166634950animated-computer-gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tdemirdizen&label=Profile%20views&color=0e75b6&style=flat" alt="tdemirdizen" /> </p>
 
