@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tdemirdizen&label=Profile%20views&color=0e75b6&style=flat" alt="tdemirdizen" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
